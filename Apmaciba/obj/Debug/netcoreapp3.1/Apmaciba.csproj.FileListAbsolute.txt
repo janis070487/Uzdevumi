@@ -1,0 +1,13 @@
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\bin\Debug\netcoreapp3.1\Apmaciba.exe
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\bin\Debug\netcoreapp3.1\Apmaciba.deps.json
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\bin\Debug\netcoreapp3.1\Apmaciba.runtimeconfig.json
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\bin\Debug\netcoreapp3.1\Apmaciba.runtimeconfig.dev.json
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\bin\Debug\netcoreapp3.1\Apmaciba.dll
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\bin\Debug\netcoreapp3.1\Apmaciba.pdb
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.csprojAssemblyReference.cache
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.AssemblyInfoInputs.cache
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.AssemblyInfo.cs
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.csproj.CoreCompileInputs.cache
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.dll
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.pdb
+C:\Users\janis\github\Apmaciba\Apmaciba\Apmaciba\obj\Debug\netcoreapp3.1\Apmaciba.genruntimeconfig.cache

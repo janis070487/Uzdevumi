@@ -1,0 +1,17 @@
+Uzdevums!
+Saliec programā komentārus
+
+Programā izmantot tikai ciklus. Bez masīva metodēm.
+
+
+1.Aizpildīt masīvu no klaviatūras.
+
+2.Izvadīt masīvu no na beigām uz sākumu.
+
+3.Atrast summu pāra skaitļiem ievadītajā masīvā.
+
+4.Atrast mazāko masīva elementu.
+
+Saliec komentārus
+
+Programā izmantot tikai ciklus. Bez masīva metodēm.

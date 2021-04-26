@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Apmaciba
+namespace Apmaciba // OK
 {
     class Program
     {
